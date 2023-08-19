@@ -17,3 +17,5 @@ https://youtu.be/sXTqLR1CTb8?t=2819
 
 since my poor programing knowledge, it would be non-server app. 
 So, when you play this game, you should have some covers that help you to prevent leaking your decision from opponent.
+
+.
